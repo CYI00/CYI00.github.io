@@ -1,8 +1,9 @@
 # Site settings ...
 uri: domain.com
-url: https://domain.com
-name: Your name
-title: Mangan Jekyll Theme
+url: "https://CYI00.github.io"
+baseurl:"/helpzoo"
+name: CYI00
+title: youngin
 email: example@domain.com
 author: username
 keywords: "Your, Keyword, Here"
